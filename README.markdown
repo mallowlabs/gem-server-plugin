@@ -1,6 +1,6 @@
 Gem Server Plugin for Jenkins
 ==============================
-A plugin makes Jenkins as a gem server.
+A plugin makes Jenkins a gem server.
 You can directly install rubygems from Jenkins.
 
 Author
@@ -16,6 +16,10 @@ After preparation, type below command:
     $ mvn package
 
 You will get target/*.hpi .
+
+Credit
+------------------------------
+* [Farm-Fresh Web Icons](http://www.fatcow.com/free-icons)
 
 License
 ------------------------------
