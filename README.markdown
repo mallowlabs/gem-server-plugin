@@ -13,6 +13,7 @@ You need to prepare Jenkins plugins development environment.
 See [Plugin Tutorial](https://wiki.jenkins-ci.org/display/JENKINS/Plugin+tutorial).
 
 After preparation, type below command:
+
     $ mvn package
 
 You will get target/*.hpi .
