@@ -1,4 +1,4 @@
-Gem Server Plugin for Jenkins
+Gem Server Plugin for Jenkins ![build status](https://circleci.com/gh/mallowlabs/gem-server-plugin/tree/master.svg?style=shield)
 ==============================
 A plugin makes Jenkins a gem server.
 You can directly install rubygems from Jenkins.
