@@ -3,5 +3,5 @@ machine:
     version: openjdk7
 general:
   artifacts:
-    - "target/*.hpi"
+    - "target/gem-server-plugin.hpi"
 
